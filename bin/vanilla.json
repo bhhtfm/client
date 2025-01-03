@@ -1,58 +1,62 @@
 [
     {
-        "name": "*vanilla2",
-        "num_players": 43
-    },
-    {
-        "name": "*vanilla3",
-        "num_players": 22
-    },
-    {
         "name": "vanilla1",
         "num_players": 29
     },
     {
-        "name": "*vanilla Gift Farm1",
-        "num_players": 12
+        "name": "*vanilla2",
+        "num_players": 23
+    },
+    {
+        "name": "*vanilla3",
+        "num_players": 15
     },
     {
         "name": "*vanilla cream",
         "num_players": 9
     },
     {
-        "name": "*vanilla farting gifts1",
-        "num_players": 18
+        "name": "*vanilla1",
+        "num_players": 23
     },
     {
-        "name": "*vanilla speed farm",
-        "num_players": 6
-    },
-    {
-        "name": "*VANILLA *FAAAAAAAST* FARM CN1",
-        "num_players": 15
-    },
-    {
-        "name": "*vanilla go fast!1",
+        "name": "*vanilla cc",
         "num_players": 12
     },
     {
-        "name": "*vanilla farting cheese",
-        "num_players": 5
+        "name": "*vanilla just farting 3",
+        "num_players": 14
     },
     {
-        "name": "vanilla2",
-        "num_players": 12
-    },
-    {
-        "name": "*vanilla CC",
+        "name": "*vanilla vanilla ff1",
         "num_players": 13
     },
     {
-        "name": "*vanilla ff event",
-        "num_players": 5
+        "name": "*vanilla GIFTS?",
+        "num_players": 9
     },
     {
-        "name": "vanilla10",
-        "num_players": 7
+        "name": "*Vanilla Silence",
+        "num_players": 10
+    },
+    {
+        "name": "vanilla2",
+        "num_players": 6
+    },
+    {
+        "name": "*Vanilla gahope",
+        "num_players": 16
+    },
+    {
+        "name": "vanilla anskdalsdasf",
+        "num_players": 3
+    },
+    {
+        "name": "*VANILLA FF+GIFT",
+        "num_players": 4
+    },
+    {
+        "name": "*VANILLA FF+GIFT1",
+        "num_players": 2
     }
 ]

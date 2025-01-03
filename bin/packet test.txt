@@ -1,0 +1,15 @@
+SATELLITE: 
+Serverbound: 
+ObjectSyncPacket(
+    fingerprint=76, round_id=3, objects=[ServerboundObjectInfo(
+        object_id=1001, 
+        shaman_object_id=32, 
+        attributes=_ObjectInfo.Attributes(x=254.39999999999998, 
+            y=337.5, velocity_x=0.0, 
+            velocity_y=59.9, 
+            rotation=1.57, 
+            angular_velocity=0.0, 
+            mice_collidable=True, 
+            inactive=False
+))]))
+
