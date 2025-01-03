@@ -1,0 +1,34 @@
+[
+    {
+        "name": "*vanilla2",
+        "num_players": 26
+    },
+    {
+        "name": "*vanilla3",
+        "num_players": 14
+    },
+    {
+        "name": "vanilla1",
+        "num_players": 27
+    },
+    {
+        "name": "*vanilla Gift Farm1",
+        "num_players": 16
+    },
+    {
+        "name": "*vanilla cream",
+        "num_players": 6
+    },
+    {
+        "name": "*vanilla cream1",
+        "num_players": 15
+    },
+    {
+        "name": "vanilla sepseri",
+        "num_players": 4
+    },
+    {
+        "name": "*vanilla lvl 150",
+        "num_players": 4
+    }
+]
