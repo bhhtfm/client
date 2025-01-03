@@ -11,12 +11,9 @@ class MyProxy(caseus.proxies.LoggingProxy, caseus.proxies.InputListeningProxy):
 
     @pak.packet_listener(caseus.clientbound.AddShamanObjectPacket)
     async def fetch_object(self, source, packet):
-        self.object_id = packet.object_id
-        self.shaman_object_id = packet.shaman_object_id
-
         await source.destination.write_packet(
             caseus.clientbound.ObjectSyncPacket,
-        
+             
             objects = [
                 caseus.ClientboundObjectInfo(
                     object_id = packet.object_id,
