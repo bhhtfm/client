@@ -1,34 +1,58 @@
 [
     {
         "name": "*vanilla2",
-        "num_players": 26
+        "num_players": 43
     },
     {
         "name": "*vanilla3",
-        "num_players": 14
+        "num_players": 22
     },
     {
         "name": "vanilla1",
-        "num_players": 27
+        "num_players": 29
     },
     {
         "name": "*vanilla Gift Farm1",
-        "num_players": 16
+        "num_players": 12
     },
     {
         "name": "*vanilla cream",
+        "num_players": 9
+    },
+    {
+        "name": "*vanilla farting gifts1",
+        "num_players": 18
+    },
+    {
+        "name": "*vanilla speed farm",
         "num_players": 6
     },
     {
-        "name": "*vanilla cream1",
+        "name": "*VANILLA *FAAAAAAAST* FARM CN1",
         "num_players": 15
     },
     {
-        "name": "vanilla sepseri",
-        "num_players": 4
+        "name": "*vanilla go fast!1",
+        "num_players": 12
     },
     {
-        "name": "*vanilla lvl 150",
-        "num_players": 4
+        "name": "*vanilla farting cheese",
+        "num_players": 5
+    },
+    {
+        "name": "vanilla2",
+        "num_players": 12
+    },
+    {
+        "name": "*vanilla CC",
+        "num_players": 13
+    },
+    {
+        "name": "*vanilla ff event",
+        "num_players": 5
+    },
+    {
+        "name": "vanilla10",
+        "num_players": 7
     }
 ]
