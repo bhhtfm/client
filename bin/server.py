@@ -19,7 +19,7 @@ class MyProxy(caseus.proxies.LoggingProxy, caseus.proxies.InputListeningProxy):
         await source.listen_to_keyboard(117)
 
     async def on_keyboard(self, client, packet):
-        if self.shaman_object_id in (10, 6, 0):
+        if self.shaman_object_id in (6, 0, 34, 33, 65, 89, 95, 97):
             await client.write_packet(
                 caseus.clientbound.ObjectSyncPacket,
             

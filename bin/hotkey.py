@@ -23,7 +23,15 @@ def on_press(key):
         keyboard.press(Key.enter)
         keyboard.type("/mort")
         keyboard.press(Key.enter)
-    elif key == Key.f6 and not is_spamming:
+    if key == Key.f5:
+        keyboard.press(Key.enter)
+        keyboard.type("/ping")
+        keyboard.press(Key.enter)
+    if key == Key.delete:
+        keyboard.press(Key.enter)
+        keyboard.type("/sala *801")
+        keyboard.press(Key.enter)
+    elif key == Key.up and not is_spamming:
         is_spamming = True
         spam_thread = threading.Thread(target=start_key)
         spam_thread.start()
